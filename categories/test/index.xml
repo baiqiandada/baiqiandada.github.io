@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Test on 白浅</title>
+        <link>http://localhost:1313/categories/test/</link>
+        <description>Recent content in Test on 白浅</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>白浅</copyright>
+        <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/test/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>这是什么？</title>
+        <link>http://localhost:1313/p/test/</link>
+        <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/test/</guid>
+        <description>&lt;img src="http://localhost:1313/p/test/manbo.png" alt="Featured image of post 这是什么？" /&gt;&lt;h2 id=&#34;哈哈哈-我也不知道要写什么&#34;&gt;哈哈哈 我也不知道要写什么
+&lt;/h2&gt;&lt;p&gt;所以有了这篇文章，就随便放个视频吧&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1GJ411x7h7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;好康的&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
