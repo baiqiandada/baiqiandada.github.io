@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://baiqiandada.github.io/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://baiqiandada.github.io/categories/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://baiqiandada.github.io/post/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
+    <loc>https://baiqiandada.github.io/categories/test/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://baiqiandada.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/test/</loc>
+    <loc>https://baiqiandada.github.io/p/test/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://baiqiandada.github.io/page/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://baiqiandada.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://baiqiandada.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://localhost:1313/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://baiqiandada.github.io/%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://baiqiandada.github.io/search/</loc>
   </url>
 </urlset>
